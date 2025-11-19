@@ -164,4 +164,4 @@ Pitch Técnico (YouTube – não listado):
 <COLOCAR LINK>
 
 Repositório GitHub:
-<COLOCAR LINK>
+<COLOCAR [LINK](https://github.com/JuanVICTORZ/EqualJob..git)> 
